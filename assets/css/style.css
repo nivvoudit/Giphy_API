@@ -1,0 +1,74 @@
+div,
+    form,
+    input {
+      margin: 10px;
+    }
+
+    #gif-input{
+      color:#000000;
+      font-size: 35px;
+      font-family: "Arial";
+    }
+
+    body{
+      background-color: #eaf3f5;
+    }
+
+    h1{
+      text-align: center;
+      font-family: "Arial";
+    }
+
+    .container{
+      padding:0 auto;
+      margin:0 auto;
+      width:960px;
+    }
+
+    .gifContainer{
+      background-color: #ffffff;
+      padding:30px;
+      width:370px;
+      height:100%;
+      display: inline-block;
+    }
+
+    p{
+      font-size:20px;
+      font-weight: bold;
+      font-family: "Arial";
+      color:#18a9d9;
+    }
+
+    #gif-input-style{
+
+      font-size: 20px;
+      font-weight: bold;
+      font-family: "Arial"
+    }
+
+    #add-gif{
+        border: 4px solid #c1edf0;
+        background: linear-gradient(#7FFF00, #18a9d9);
+        color: #ffffff;
+        width: 175px;
+        height:75px;
+        margin-right: 8px;
+        margin-top:8px ;
+        font-size: 15px;
+        font-weight:bold;
+        text-transform:uppercase;
+    }
+
+    button.gifStyle{
+        border: 4px solid #c1edf0;
+        background: linear-gradient(#18a9d9, #7FFF00);
+        color: #ffffff;
+        width: 175px;
+        height:75px;
+        margin-right: 8px;
+        margin-top:8px ;
+        font-size: 15px;
+        font-weight:bold;
+        text-transform:uppercase;
+    }
